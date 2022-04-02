@@ -15,3 +15,7 @@ efficientnet/b4/classification
 Imagenet (ILSVRC-2012-CLS) classification with EfficientNet-B4.
 
 model_url: https://tfhub.dev/tensorflow/efficientnet/b4/classification/1
+
+
+
+Project Blog: https://omkarvatsa.hashnode.dev/bird-species-image-classification-using-ml
