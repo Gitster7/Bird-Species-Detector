@@ -16,7 +16,7 @@ Imagenet (ILSVRC-2012-CLS) classification with EfficientNet-B4.
 
 model_url: https://tfhub.dev/tensorflow/efficientnet/b4/classification/1
 
-## 3. Results
+## 4. Results
 <img src="https://github.com/Gitster7/Bird-Species-Detector/blob/main/Birds.png" alt="Results">
 
 
